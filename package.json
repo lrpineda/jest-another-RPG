@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "This is going to be an RPG game for learning purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrpineda/jest-another-RPG.git"
+  },
+  "author": "Luis Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrpineda/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/lrpineda/jest-another-RPG#readme"
+}
